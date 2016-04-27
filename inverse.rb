@@ -1,0 +1,2 @@
+class Inverse
+end
