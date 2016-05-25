@@ -1,4 +1,4 @@
-class operation
+class Operation
 	attr_accessor :result
 
 	def initialize(param_num)
